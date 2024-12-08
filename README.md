@@ -35,6 +35,17 @@ Figure -02 HALF Subtractor
 
 **Truthtable**
 
+**Half Adder**
+
+
+![image](https://github.com/Ashera2004/HALF_ADDER_SUBTRACTOR/blob/main/halfadder_truthtable.jpg)
+
+**Half Subtractor**
+
+![image](https://github.com/Ashera2004/HALF_ADDER_SUBTRACTOR/blob/main/halfsub_truth%20table.jpg)
+
+
+
 **Procedure**
 
 1.	Type the program in Quartus software.
@@ -50,12 +61,52 @@ Figure -02 HALF Subtractor
 
 **Program:**
 
-/* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
+Program to design a half adder and half subtractor circuit and verify its truth table in quartus using Verilog programming.
 
-Developed by: RegisterNumber:*/
+**Half Adder**
+
+![image](https://github.com/Ashera2004/HALF_ADDER_SUBTRACTOR/blob/main/halfadder_code.jpg)
+
+**Half Subractor**
+
+![image](https://github.com/Ashera2004/HALF_ADDER_SUBTRACTOR/blob/main/halfsub_code.jpg)
+
+Developed by: A S Siddarth
+
+RegisterNumber: 24010669
 
 **RTL Schematic**
 
+**Half Adder**
+
+![image](https://github.com/Ashera2004/HALF_ADDER_SUBTRACTOR/blob/main/halfadder_symbol.jpg)
+
+
+**Half Subtractor**
+
+
+![image](https://github.com/Ashera2004/HALF_ADDER_SUBTRACTOR/blob/main/halfsub_symbol.jpg)
+
 **Output/TIMING Waveform**
 
+**Half Adder**
+
+
+![image](https://github.com/Ashera2004/HALF_ADDER_SUBTRACTOR/blob/main/halfadder_waveform.jpg)
+
+**Half Subtractor**
+
+![image](https://github.com/Ashera2004/HALF_ADDER_SUBTRACTOR/blob/main/halfsub_waveform.jpg)
+
+
 **Result:**
+
+**Half Adder**
+
+
+![image](https://github.com/Ashera2004/HALF_ADDER_SUBTRACTOR/blob/main/halfadder_result.jpg)
+
+**Half Subtractor**
+
+
+![image](https://github.com/Ashera2004/HALF_ADDER_SUBTRACTOR/blob/main/halfsub_result.jpg)
